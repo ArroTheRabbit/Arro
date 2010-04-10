@@ -1,6 +1,6 @@
 import org.newdawn.slick.Image;
 import org.newdawn.slick.SlickException;
-
+ 
 
 public class Player implements GameObject {
 	private String name;
