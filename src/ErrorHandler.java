@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author KryckA
+ *
+ */
 public final class ErrorHandler {
 	
 	public ErrorHandler() {}
