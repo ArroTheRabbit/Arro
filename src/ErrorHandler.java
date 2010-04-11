@@ -1,7 +1,5 @@
 /**
- * 
- * @author KryckA
- *
+ * Class to handle all the messages and errors.
  */
 public final class ErrorHandler {
 	
