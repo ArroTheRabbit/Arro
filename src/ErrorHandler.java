@@ -5,11 +5,11 @@ public final class ErrorHandler {
 	
 	public ErrorHandler() {}
 	
-	public void printMsg(String msg) {
+	public static void printMsg(String msg) {
 		System.out.println(msg);
 	}
 	
-	public void printError(String error) {
+	public static void printError(String error) {
 		System.err.println(error);
 	}
 
