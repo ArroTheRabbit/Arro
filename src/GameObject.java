@@ -1,9 +1,9 @@
 
 
-import org.newdawn.slick.Image;
+import org.newdawn.slick.Animation;
 
 public interface GameObject {
 	public int[] getPosition();
 	public int[] getDimension();
-	public Image getImage();
+	public Animation getImage();
 }
